@@ -1,4 +1,4 @@
-_# 🎓 Exam Doubt Solver Chatbot_
+**_# 🎓 Exam Doubt Solver Chatbot_**
 
 An AI-powered Exam Doubt Solver built using **Python, Streamlit, LangChain, and Ollama** that helps students solve academic doubts across multiple Computer Science subjects.
 
@@ -6,7 +6,7 @@ This project runs completely offline using locally hosted Large Language Models 
 
 ---
 
-_## 🚀 Features_
+**_## 🚀 Features_**
 
 - 🤖 AI-powered doubt solving using Ollama
 - 📚 Subject-wise tutoring support
@@ -18,7 +18,7 @@ _## 🚀 Features_
 
 ---
 
-_## 📚 Supported Subjects_
+**_## 📚 Supported Subjects_**
 
 - Data Structures & Algorithms
 - Operating Systems
@@ -31,7 +31,7 @@ _## 📚 Supported Subjects_
 
 ---
 
-_## 🛠️ Tech Stack_
+**_## 🛠️ Tech Stack_**
 
 - Python
 - Streamlit
@@ -41,7 +41,7 @@ _## 🛠️ Tech Stack_
 
 ---
 
-_## 🏗️ Project Workflow
+**_## 🏗️ Project Workflow**
 
 ```text
 User Question
@@ -67,7 +67,7 @@ Chat Interface
 
 ---
 
-_## 📂 Project Structure_
+**_## 📂 Project Structure_**
 
 ```text
 Exam_doubt_solver_chatbot/
@@ -79,7 +79,7 @@ Exam_doubt_solver_chatbot/
 
 ---
 
-_## ⚙️ Installation_
+**_## ⚙️ Installation_**
 
 ### Clone Repository
 
@@ -114,7 +114,7 @@ streamlit run app.py
 
 ---
 
-_## 🎯 Use Cases_
+**_## 🎯 Use Cases_**
 
 - Exam Preparation
 - Concept Revision
@@ -125,7 +125,7 @@ _## 🎯 Use Cases_
 
 ---
 
-_## 🔮 Future Enhancements_
+**_## 🔮 Future Enhancements_**
 
 - PDF Notes Upload
 - Previous Year Question Analysis
@@ -135,7 +135,7 @@ _## 🔮 Future Enhancements_
 
 ---
 
-_## 👩‍💻 Developer_
+**_## 👩‍💻 Developer_**
 
 _**Nancy Sharma**_
 
