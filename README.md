@@ -17,6 +17,9 @@ This project runs completely offline using locally hosted Large Language Models 
 - 🎨 Modern dark-themed user interface
 
 ---
+## 📸 Project Preview
+
+![Exam Doubt Solver](assets/exam_doubt_solver_ui.png)
 
 **_## 📚 Supported Subjects_**
 
