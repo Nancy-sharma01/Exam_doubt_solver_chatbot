@@ -8,7 +8,7 @@ This project runs completely offline using locally hosted Large Language Models 
 
 **_## 📸 Project Preview_**
 
-![Exam Doubt Solver](exam_doubt_solver_ui.png)
+![Exam Doubt Solver](assets/exam_doubt_solver_ui.png)
 
 **_## 🚀 Features_**
 
