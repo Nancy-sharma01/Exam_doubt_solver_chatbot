@@ -6,6 +6,10 @@ This project runs completely offline using locally hosted Large Language Models 
 
 ---
 
+**_## 📸 Project Preview_**
+
+![Exam Doubt Solver](exam_doubt_solver_ui.png)
+
 **_## 🚀 Features_**
 
 - 🤖 AI-powered doubt solving using Ollama
@@ -17,9 +21,6 @@ This project runs completely offline using locally hosted Large Language Models 
 - 🎨 Modern dark-themed user interface
 
 ---
-## 📸 Project Preview
-
-![Exam Doubt Solver](assets/exam_doubt_solver_ui.png)
 
 **_## 📚 Supported Subjects_**
 
