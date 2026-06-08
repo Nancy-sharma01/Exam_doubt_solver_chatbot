@@ -113,7 +113,7 @@ ollama pull llama3.2
 ### Run the Application
 
 ```bash
-pyton -m streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
